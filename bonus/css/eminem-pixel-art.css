@@ -139,3 +139,37 @@ section.container{
 .boolean-blue{
     background-color: #001533;
 }
+
+.umbreon.container{
+    border: 20px solid beige;
+    background-color: beige;
+}
+
+.umbreon-body{
+    background-color: #4a4a4a;
+}
+
+.umbreon-body-shadow{
+    background-color: #282828;
+}
+
+.energy{
+    background-color: #16bfff;
+}
+
+.energy-shadow{
+    background-color: #17a3e7;
+}
+
+.umbreon-eye{
+    background-color: #f4f345;
+}
+
+.umbreon-eye-shadow{
+    background-color: #bb7719;
+}
+
+.umbreon-ears{
+    background-color: #5e5e5e;
+}
+
