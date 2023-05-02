@@ -1,0 +1,71 @@
+main{
+    border: 20px solid #000;
+}
+
+[class^="col"]{
+    height: 20px;
+}
+
+.curtain-light{
+    background-color: #ab3118;
+}
+
+.curtain-dark{
+    background-color: #962b15;
+}
+
+.black-bg{
+    background-color: #000;
+}
+
+.hair{
+    background-color: #f2f5a2;
+}
+
+.dark-skin{
+    background-color: #c4ba96;
+}
+
+.skin{
+    background-color: #f0e1ce;
+}
+
+.mantle{
+    background-color: #171513;
+}
+
+.green-suit{
+    background-color: #28b55c;
+}
+
+.red-suit{
+    background-color: #ff3029;
+}
+
+.yellow-suit{
+    background-color: #f5db36;
+}
+
+.dark-green-suit{
+    background-color: #13542b;
+}
+
+.yellow-curtain{
+    background-color: #c79e18;
+}
+
+.yellow-dark-curtain{
+    background-color: #997912;
+}
+
+.boots{
+    background-color: #362920;
+}
+
+.boots-shadow{
+    background-color: #171513;
+}
+
+.floor{
+    background-color: #6b1f0f;
+}
