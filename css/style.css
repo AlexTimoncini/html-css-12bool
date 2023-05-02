@@ -1,0 +1,14 @@
+[class^="col"]{
+    background-color: #006cfa;
+    border: 1px white solid;
+    padding: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.nested{
+    background-color: #01e165;
+    border: 1px #006cfa solid;
+}
