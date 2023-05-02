@@ -1,5 +1,7 @@
-main{
+section.container{
     border: 20px solid #000;
+    margin-top: 50px;
+    background-color: #fff;
 }
 
 [class^="col"]{
@@ -68,4 +70,56 @@ main{
 
 .floor{
     background-color: #6b1f0f;
+}
+
+.dark-grey{
+    background-color: #211f1e;
+}
+
+.grey{
+    background-color: #4f4b48;
+}
+
+.light-grey{
+    background-color: #807974;
+}
+
+.iron-bar{
+    background-color: #3b3736;
+}
+
+.sky{
+    background-color: #918785;
+}
+
+.mask-profile{
+    background-color: #d4d4d4;
+}
+
+.blue-shirt{
+    background-color: #3530ba;
+}
+
+.dark-blue-shirt{
+    background-color: #272387;
+}
+
+.chainsaw-profile{
+    background-color: #ba5820;
+}
+
+.chainsaw-body{
+    background-color: #f07229;
+}
+
+.chain{
+    background-color: #bab3af;
+}
+
+.chain-tooth{
+    background-color: #ede4df;
+}
+
+.chainsaw-floor{
+    background-color: #aba39b;
 }
