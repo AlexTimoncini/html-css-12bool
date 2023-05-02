@@ -123,3 +123,19 @@ section.container{
 .chainsaw-floor{
     background-color: #aba39b;
 }
+
+.duck-bg{
+    background-color: #5bbe80;
+}
+
+.duck-body{
+    background-color: rgb(255, 196, 0);
+}
+
+.boolean-green{
+    background-color: #00e165;
+}
+
+.boolean-blue{
+    background-color: #001533;
+}
